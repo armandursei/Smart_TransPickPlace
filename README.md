@@ -1,4 +1,4 @@
-## Smart TransPickPlace |C++
+## Smart TransPickPlace | C++
 ◦ Designed and implemented an Arduino-based autonomous conveyor belt sorting system with 90%
 classification accuracy with an intuitive interface for system configuration and monitoring, facilitating use
 and maintenance.
